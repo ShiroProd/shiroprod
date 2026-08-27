@@ -1,0 +1,4 @@
+Ce dossier contient les photos utilisées sur la page "Travaux récents" du site.
+
+Pour ajouter une photo à un projet, voir le tutoriel TUTO-AJOUTER-DES-PHOTOS.pdf
+fourni à la racine du dossier.
